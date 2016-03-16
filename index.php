@@ -1,6 +1,6 @@
 <?php
 
-require_once 'class/System.php';
+require_once 'src/System.php';
 
 $ip = new \Util\System();
 $myip = $ip::IP();
